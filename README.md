@@ -10,7 +10,6 @@ I'm currently focused on building a strong foundation in computer science, with 
 - Software development
 - Problem solving & algorithms
 - Web technologies
-- Cybersecurity fundamentals
 
 ## 🥊 Boxing & Mindset
 Outside of tech, I’m an active boxer and athlete with [DMS Team Boxing](https://dmsteamboxing.com/). Boxing isn't just a sport for me — it’s a mental training ground. It teaches:
