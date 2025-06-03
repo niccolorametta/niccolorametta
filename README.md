@@ -2,16 +2,26 @@
 
 Niccolo Rametta
 
-This is my repository
+## 🧑‍💻 About Me
+I'm a passionate student at [ITIS Ettore Majorana](https://www.itismajo.it/SitePages/Homepage.aspx), constantly working to improve my digital skills. I’m curious by nature and driven by the desire to learn, experiment, and grow — especially in the field of computer science.
 
-🧑‍💻 I’m Niccolo Rametta and this is what you need to know about me:
+## 💻 My Mission in Tech
+I'm currently focused on building a strong foundation in computer science, with the long-term goal of becoming highly skilled and competitive in the tech industry. My main areas of interest include:
+- Software development
+- Problem solving & algorithms
+- Web technologies
+- Cybersecurity fundamentals
 
-💻 I am a student of the institute ITIS Ettore Majorana who always tries to improve his digital skills and with desire to learn more things about the field.
+## 🥊 Boxing & Mindset
+Outside of tech, I’m an active boxer and athlete with [DMS Team Boxing](https://dmsteamboxing.com/). Boxing isn't just a sport for me — it’s a mental training ground. It teaches:
+- Discipline and focus
+- Strategic thinking
+- Confidence in decision-making
+- The importance of consistency and resilience
 
-🥊In my free time I practice boxing, a discipline that teaches you to always be aware of what you are doing at the moment, to reason about how to move in the future, and to make you more sure about what to do.
+## 🏁 My Dual Goals
+- 👨‍💻 **In Computer Science:** Reach a high level of technical expertise and be well-prepared for a professional career in the tech world.
+- 🥇 **In Boxing:** Compete and grow at the highest technical and competitive levels.
 
-🏁I have two goals at the moment in my life: In computer science I want to aim to acquire skills of a certain level that will be useful when I go to work, while in boxing my goal is to reach the highest technical and competitive level.
-
-Athlete to: https://dmsteamboxing.com/
-
-Student at: https://www.itismajo.it/SitePages/Homepage.aspx
+## 🔧 Tools & Technologies I'm Learning
+- Languages: `Python`, `JavaScript`, `HTML/CSS`, `C`
