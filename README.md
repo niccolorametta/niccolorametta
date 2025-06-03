@@ -1,4 +1,4 @@
-# Something about me!
+# Student of ITIS Ettore Majorana who wants to improve his skills in computer science
 
 Niccolo Rametta
 
